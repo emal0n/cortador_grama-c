@@ -1,10 +1,20 @@
 # Sobre o Projeto
+O cortador de grama automativo foi um projeto desenvolvido no Senai, com objetivo de desafiar e treinar todo conhecimento adquirido com a linguagem C e Fundamentos.
 
 ## Linguagem Utilizada
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Componetes Utilizados
-
+- Sensor ultrassônico
+- Motor corrente continua
+- Protoboard
+- Arduino
+- Suporte
+- Baterias (9V)
+- Motores DC
+- Roda boba
+- Helice c/ laminas
+- Estrutura geral para aplicação 
 
 ## Código - C
 ```bash
@@ -77,3 +87,10 @@ void loop() {
 # Imagens do Projeto
 
 # Integrantes da Equipe
+```bash
+Edmundo N. "(emal0n)"
+Gabrielle M. "(gsp2019)"
+João P. "(Jotape612)"
+Gabriel S. "(?)"
+Karol C. "(crqlo)"
+```
