@@ -84,9 +84,11 @@ void loop() {
   } 
 }
 ```
-# Imagens do Projeto
-
-# Integrantes da Equipe
+## Imagens do Projeto
+![foto](https://raw.githubusercontent.com/emal0n/cortador_grama-c/main/raw/b.jpg)
+![foto](https://raw.githubusercontent.com/emal0n/cortador_grama-c/main/raw/c.jpg)
+![foto](https://raw.githubusercontent.com/emal0n/cortador_grama-c/main/raw/d.jpg)
+## Integrantes da Equipe
 ```bash
 Edmundo N. "(emal0n)"
 Gabrielle M. "(gsp2019)"
